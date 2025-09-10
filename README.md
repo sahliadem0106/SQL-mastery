@@ -45,9 +45,8 @@ I am going to share my SQL mastery journey here in this repository documenting e
 
 ```bash
 /sql-journey
-├── 01-core-sql/
-├── 02-joins-subqueries/
-├── 03-window-functions-ctes/
-├── 04-query-optimization/
-├── 05-advanced-analytics/
-└── 06-postgresql-specialization/
+├── 01-joins-subqueries/
+├── 02-window-functions-ctes/
+├── 03-query-optimization/
+├── 04-advanced-analytics/
+└── 05-postgresql-specialization/
